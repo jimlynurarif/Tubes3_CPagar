@@ -6,9 +6,9 @@ class Program
 {
     static void Main()
     {
-        string sourceDirectory = @"C:\Users\Jimly\Documents\tubes3\Tubes3_CPagar\image";
-        string binaryDirectory = @"C:\Users\Jimly\Documents\tubes3\Tubes3_CPagar\image_binary";
-        string restoreDirectory = @"C:\Users\Jimly\Documents\tubes3\Tubes3_CPagar\binaryToBmp";
+        string sourceDirectory = @"imageoriginal";
+        string binaryDirectory = @"imageInBinary";
+        string restoreDirectory = @"imageFromBinary";
 
         try
         {
