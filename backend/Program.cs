@@ -9,6 +9,7 @@ class Program
         string sourceDirectory = @"imageoriginal";
         string binaryDirectory = @"imageInBinary";
         string restoreDirectory = @"imageFromBinary";
+        string asciiDirectory = @"C:\Users\Jimly\Documents\tubes3\Tubes3_CPagar\backend\ascii";
 
         try
         {
@@ -22,6 +23,12 @@ class Program
             if (!Directory.Exists(restoreDirectory))
             {
                 Directory.CreateDirectory(restoreDirectory);
+            }
+
+            // Membuat direktori untuk menyimpan hasil konversi ke ASCII jika belum ada
+            if (!Directory.Exists(asciiDirectory))
+            {
+                Directory.CreateDirectory(asciiDirectory);
             }
 
             // Ambil semua file BMP di folder sumber
@@ -41,6 +48,12 @@ class Program
                 // Mengembalikan gambar dari format binary ke BMP
                 string outputImagePath = Path.Combine(restoreDirectory, Path.GetFileName(bmpFile));
                 BinaryToImage(binaryFilePath, outputImagePath);
+
+                // Konversi binary ke ASCII dan simpan ke file teks
+                string asciiFilePath = Path.Combine(asciiDirectory, Path.GetFileNameWithoutExtension(binaryFilePath) + ".txt");
+                ConvertBinaryToAscii(binaryFilePath, asciiFilePath);
+
+                Console.WriteLine($"Konversi {binaryFilePath} ke ASCII berhasil. Hasil disimpan di {asciiFilePath}");
             }
 
             Console.WriteLine("Proses selesai.");
@@ -73,5 +86,23 @@ class Program
     {
         byte[] binaryData = File.ReadAllBytes(binaryPath);
         File.WriteAllBytes(imagePath, binaryData);
+    }
+
+    static void ConvertBinaryToAscii(string binaryFilePath, string asciiFilePath)
+    {
+        byte[] binaryData = File.ReadAllBytes(binaryFilePath);
+
+        // Membuat string builder untuk menyimpan karakter ASCII
+        System.Text.StringBuilder asciiBuilder = new System.Text.StringBuilder();
+
+        // Konversi setiap byte menjadi karakter ASCII
+        foreach (byte b in binaryData)
+        {
+            char asciiChar = (char)b;
+            asciiBuilder.Append(asciiChar);
+        }
+
+        // Menyimpan string ASCII ke file teks
+        File.WriteAllText(asciiFilePath, asciiBuilder.ToString());
     }
 }
