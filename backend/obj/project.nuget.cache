@@ -1,23 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "Q93O4urGKx1SEEU/+soDIDU2an3S9WZPofbvfkCIhZTGV8armwrlFUHb2Q4fPq07Wb+M4ieTMMO+PXFyDimWuQ==",
+  "dgSpecHash": "mEjifez5ipyLRJF5eL0MjbMwh6dj5zbSjirkgMxzlN+dYiZvUZt2avK4Zi7YcwW5FNtZV+MDxR8NmcIO7fr39g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Jimly\\Documents\\tubes3\\Tubes3_CPagar\\backend\\backend.csproj",
+  "projectFilePath": "D:\\Roihan\\Program\\tubes\\Tubesstima3\\Tubes3_CPagar\\backend\\backend.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Jimly\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
-    "C:\\Users\\Jimly\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
-    "C:\\Users\\Jimly\\.nuget\\packages\\system.drawing.common\\5.0.0\\system.drawing.common.5.0.0.nupkg.sha512"
+    "C:\\Users\\m_roi\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\m_roi\\.nuget\\packages\\system.drawing.common\\8.0.5\\system.drawing.common.8.0.5.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1904",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Package 'System.Drawing.Common' 5.0.0 has a known critical severity vulnerability, https://github.com/advisories/GHSA-rxg9-xrhp-64gj",
-      "libraryId": "System.Drawing.Common",
-      "targetGraphs": [
-        "net8.0"
-      ]
-    }
-  ]
+  "logs": []
 }
