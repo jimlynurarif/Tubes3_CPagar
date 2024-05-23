@@ -45,7 +45,7 @@ public class BM
         }
 
     }
-    public void solve(string pattern,string text){
+    public double solveBM(string pattern,string text){
         int m = pattern.Length;
         int n = text.Length;
 
@@ -83,7 +83,8 @@ public class BM
         } while (i <= n - 1);
 
         double kemiripan = 1 - (maxval / m);
-        Console.WriteLine($"Tingkat kemiripan adalah: {kemiripan}");
+        return kemiripan;
+        // Console.WriteLine($"Tingkat kemiripan adalah: {kemiripan}");
 
     }
 }
