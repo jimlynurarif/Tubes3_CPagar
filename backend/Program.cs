@@ -16,8 +16,14 @@
             foreach ((string nama, string berkasCitra) in sidikJariData)
             {
                 double tmp;
-                BM solver = new BM();
-                tmp = solver.solveBM(pattern, berkasCitra);
+
+                //BM
+                // BM solver = new BM();
+                // tmp = solver.solveBM(pattern, berkasCitra);
+
+                //KMP
+                KMP solver = new KMP();
+                tmp = solver.solveKMP(pattern, berkasCitra);
 
                 if (tmp > maxval){
                     maxval = tmp;
