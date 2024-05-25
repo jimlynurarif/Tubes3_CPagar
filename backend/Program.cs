@@ -4,7 +4,7 @@
         DB db = new DB();
         
         ImageProc ip = new ImageProc();
-        string pattern = ip.ProcessImageP("./sidiks/10.BMP");
+        string pattern = ip.ProcessImageP("./sidiks/3.BMP");
         Console.WriteLine($"pattern: {pattern}");
 
         List<(string, string)> sidikJariData = db.GetSidikJariDataList();
@@ -13,24 +13,28 @@
         {
             double maxval = 0;
             string nameAns = "";
+            string pathAns = "";
             foreach ((string nama, string berkasCitra) in sidikJariData)
             {
                 double tmp;
 
                 //BM
-                // BM solver = new BM();
-                // tmp = solver.solveBM(pattern, berkasCitra);
+                BM solver = new BM();
+                string text = ip.ProcessImageT(berkasCitra);
+                tmp = solver.solveBM(pattern, text);
 
-                //KMP
-                KMP solver = new KMP();
-                tmp = solver.solveKMP(pattern, berkasCitra);
+                // //KMP
+                // KMP solver = new KMP();
+                // tmp = solver.solveKMP(pattern, berkasCitra);
 
                 if (tmp > maxval){
                     maxval = tmp;
                     nameAns = nama;
+                    pathAns = berkasCitra;
                 }
             }
             Console.WriteLine($"yang paling mirip adalah {nameAns} dengan Tingkat kemiripan  {maxval * 100}%");
+            Console.WriteLine($"path = {pathAns}");
         }
        
     }
