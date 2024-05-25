@@ -19,13 +19,14 @@
                 double tmp;
 
                 //BM
-                BM solver = new BM();
-                string text = ip.ProcessImageT(berkasCitra);
-                tmp = solver.solveBM(pattern, text);
+                // BM solver = new BM();
+                // string text = ip.ProcessImageT(berkasCitra);
+                // tmp = solver.solveBM(pattern, text);
 
                 // //KMP
-                // KMP solver = new KMP();
-                // tmp = solver.solveKMP(pattern, berkasCitra);
+                KMP solver = new KMP();
+                string text = ip.ProcessImageT(berkasCitra);
+                tmp = solver.solveKMP(pattern, text);
 
                 if (tmp > maxval){
                     maxval = tmp;

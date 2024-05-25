@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Roihan\\Program\\tubes\\Tubesstima3\\Tubes3_CPagar\\backend\\backend.csproj": {}
+    "C:\\Users\\Jimly\\Documents\\tubes3\\Tubes3_CPagar\\backend\\backend.csproj": {}
   },
   "projects": {
-    "D:\\Roihan\\Program\\tubes\\Tubesstima3\\Tubes3_CPagar\\backend\\backend.csproj": {
+    "C:\\Users\\Jimly\\Documents\\tubes3\\Tubes3_CPagar\\backend\\backend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Roihan\\Program\\tubes\\Tubesstima3\\Tubes3_CPagar\\backend\\backend.csproj",
+        "projectUniqueName": "C:\\Users\\Jimly\\Documents\\tubes3\\Tubes3_CPagar\\backend\\backend.csproj",
         "projectName": "backend",
-        "projectPath": "D:\\Roihan\\Program\\tubes\\Tubesstima3\\Tubes3_CPagar\\backend\\backend.csproj",
-        "packagesPath": "C:\\Users\\m_roi\\.nuget\\packages\\",
-        "outputPath": "D:\\Roihan\\Program\\tubes\\Tubesstima3\\Tubes3_CPagar\\backend\\obj\\",
+        "projectPath": "C:\\Users\\Jimly\\Documents\\tubes3\\Tubes3_CPagar\\backend\\backend.csproj",
+        "packagesPath": "C:\\Users\\Jimly\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jimly\\Documents\\tubes3\\Tubes3_CPagar\\backend\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\m_roi\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Jimly\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -68,7 +68,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
