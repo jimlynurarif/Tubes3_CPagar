@@ -1,0 +1,163 @@
+﻿<UserControl x:Class="frontend.MVVM.View.SearchView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:local="clr-namespace:frontend.MVVM.View"
+             mc:Ignorable="d"
+             d:DesignHeight="600" d:DesignWidth="800">
+
+    <UserControl.Resources>
+        <!-- Style for rounded buttons -->
+        <Style TargetType="Button">
+            <Setter Property="Control.Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border Background="{TemplateBinding Background}"
+                                BorderBrush="{TemplateBinding BorderBrush}"
+                                BorderThickness="{TemplateBinding BorderThickness}"
+                                CornerRadius="10">
+                            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                        </Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+            <Setter Property="Background" Value="White"/>
+            <Setter Property="Foreground" Value="White"/>
+            <Setter Property="FontWeight" Value="Bold"/>
+            <Setter Property="Padding" Value="10,5"/>
+            <Setter Property="BorderBrush" Value="White"/>
+            <Setter Property="BorderThickness" Value="1"/>
+            <Setter Property="HorizontalAlignment" Value="Center"/>
+            <Setter Property="VerticalAlignment" Value="Center"/>
+            <Setter Property="Height" Value="40"/>
+            <Setter Property="Width" Value="100"/>
+            <Setter Property="Margin" Value="5"/>
+        </Style>
+
+        <Style TargetType="ToggleButton">
+            <Setter Property="Control.Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="ToggleButton">
+                        <Border Background="{TemplateBinding Background}"
+                                BorderBrush="{TemplateBinding BorderBrush}"
+                                BorderThickness="{TemplateBinding BorderThickness}"
+                                CornerRadius="10">
+                            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                        </Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+            <Setter Property="Background" Value="White"/>
+            <Setter Property="Foreground" Value="White"/>
+            <Setter Property="FontWeight" Value="Bold"/>
+            <Setter Property="Padding" Value="10,5"/>
+            <Setter Property="BorderBrush" Value="White"/>
+            <Setter Property="BorderThickness" Value="1"/>
+            <Setter Property="HorizontalAlignment" Value="Center"/>
+            <Setter Property="VerticalAlignment" Value="Center"/>
+            <Setter Property="Height" Value="40"/>
+            <Setter Property="Width" Value="100"/>
+            <Setter Property="Margin" Value="5"/>
+        </Style>
+
+        <!-- Style for TextBlocks to make them look consistent -->
+        <Style TargetType="TextBlock">
+            <Setter Property="FontFamily" Value="Segoe UI"/>
+            <Setter Property="FontSize" Value="14"/>
+            <Setter Property="VerticalAlignment" Value="Center"/>
+        </Style>
+
+        <Storyboard x:Key="ImageFadeIn">
+            <DoubleAnimation
+                Storyboard.TargetProperty="Opacity"
+                From="0.0" To="1.0"
+                Duration="0:0:1" />
+        </Storyboard>
+    </UserControl.Resources>
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="250"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+
+        <!-- Input Fingerprint Section -->
+        <Border Grid.Column="0" Margin="10,42,0,224" CornerRadius="15" >
+            <Border.Background>
+                <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+                    <GradientStop Color="#DA22FF" Offset="0"/>
+                    <GradientStop Color="#8E2DE2" Offset="1"/>
+                </LinearGradientBrush>
+            </Border.Background>
+            <StackPanel Margin="10">
+                <TextBlock Foreground="White" Text="Input Fingerprint" HorizontalAlignment="Center" FontWeight="Bold" Margin="0,0,0,10"/>
+                <Border BorderThickness="1" Margin="0,0,0,10" HorizontalAlignment="Stretch" Height="216" Width="214">
+                    <Image x:Name="imagePicture" VerticalAlignment="Center" HorizontalAlignment="Center" Stretch="Uniform"/>
+                </Border>
+                <Button x:Name="BrowseButton" Foreground="#512DA8" Content="Select Fingerprint" Click="BrowseButton_Click" Width="170" Height="39"/>
+            </StackPanel>
+        </Border>
+
+
+        <!-- Choose Algorithm Section -->
+        <StackPanel Grid.Column="0" Margin="10,411,10,0" VerticalAlignment="Top" Height="69">
+            <TextBlock Foreground="White" Text="Choose Algorithm" HorizontalAlignment="Center" FontWeight="Bold" Margin="0,0,0,10" Height="20"/>
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Height="38">
+                <ToggleButton Name="BMButton" Foreground="#512DA8" Height="30" Content="BM"/>
+                <ToggleButton x:Name="KMPButton" Foreground="#512DA8" Height="30" Content="KMP"/>
+            </StackPanel>
+        </StackPanel>
+
+        <StackPanel Grid.Column="0" Margin="10,506,10,0" VerticalAlignment="Top" Height="86">
+            <TextBlock Text="Search Fingerprint" Foreground="White" HorizontalAlignment="Center" FontWeight="Bold" Margin="0,0,0,10" Height="20"/>
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                <Button Name="SearchButton" Foreground="#512DA8" Content="Search" Height="35" Width="95" Click="SearchButton_Click"/>
+            </StackPanel>
+        </StackPanel>
+
+        <Border Margin="24,45,24,0" VerticalAlignment="Top" Height="489" Grid.Column="1" CornerRadius="15">
+            <Border.Background>
+                <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+                    <GradientStop Color="#8E2DE2" Offset="0"/>
+                    <GradientStop Color="#4A00E0" Offset="1"/>
+                </LinearGradientBrush>
+            </Border.Background>
+            <StackPanel Margin="0" VerticalAlignment="Top" Height="489">
+                <Grid Height="480" Width="502">
+                    <!-- Define Grid Rows and Columns -->
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="35"/>
+                        <RowDefinition/>
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+
+                    <TextBlock Foreground="White" Grid.Column="0" Grid.Row="0" Margin="20,20,0,0" Text="Results" FontWeight="Bold" Height="26" VerticalAlignment="Top"/>
+                    <!-- Add controls inside the Grid -->
+                    <Border Grid.Column="0" Grid.Row="1" BorderBrush="White" BorderThickness="2" Margin="20,21,10,151" CornerRadius="15">
+                        <Image x:Name="ResultImage" Width="100" Height="100"/>
+                    </Border>
+
+                    <TextBlock Foreground="White" Text="Time Execution" Grid.Column="0" Margin="20,340,0,0" Grid.Row="1" VerticalAlignment="Top"/>
+
+                    <Border Grid.Column="1" Grid.Row="1" BorderBrush="White" BorderThickness="2" Margin="10,22,35,56" CornerRadius="15">
+                        <TextBlock x:Name="ResultsTextBlock" Foreground="White" Text="List biodata" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                    </Border>
+                </Grid>
+            </StackPanel>
+        </Border>
+
+
+
+    </Grid>
+
+    <UserControl.Triggers>
+        <EventTrigger RoutedEvent="Window.Loaded">
+            <BeginStoryboard Storyboard="{StaticResource ImageFadeIn}" />
+        </EventTrigger>
+    </UserControl.Triggers>
+</UserControl>
