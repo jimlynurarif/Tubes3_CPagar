@@ -1,90 +1,94 @@
 using System;
-public class BM
-{
-    private double maxval = 100;
-    private int[] buildLast(string pattern){
 
-        int[] last = new int[256]; 
-
-        for (int i = 0; i < 256; i++)
-        {
-            last[i] = -1; // initialize array
-        }
-
-        for (int i = 0; i < pattern.Length; i++)
-        {
-            int idx = pattern[i];
-            
-            last[idx] = i;
-        }
-        return last;
-    }
-
-    private void HammingDistance(string pattern, string text, int startIndex)
+namespace TUBES3_CPAGAR{
+    public class BM
     {
-        int distance = 0;
-        int patternLength = pattern.Length;
-        int textLength = text.Length;
+        private double maxval = 100;
+        private int[] buildLast(string pattern){
 
-        for (int i = 0; i < patternLength; i++)
-        {
-            int textIndex = startIndex + i;
-            if (textIndex >= textLength)
+            int[] last = new int[256]; 
+
+            for (int i = 0; i < 256; i++)
             {
-                return;
+                last[i] = -1; // initialize array
             }
 
-            if (pattern[i] != text[textIndex])
+            for (int i = 0; i < pattern.Length; i++)
             {
-                distance++;
+                int idx = pattern[i];
+                
+                last[idx] = i;
             }
+            return last;
         }
 
-        if(distance<maxval){
-            maxval = distance;
-        }
-
-    }
-    public double solveBM(string pattern,string text){
-        int m = pattern.Length;
-        int n = text.Length;
-
-        int[] last = buildLast(pattern);
-
-        int i = m - 1;
-        if (i > n - 1){
-            throw new ArgumentException($"gak bisa");
-        }
-
-        int j = m - 1;
-
-        do
+        private void HammingDistance(string pattern, string text, int startIndex)
         {
-            HammingDistance(pattern, text, i - (m - 1));
+            int distance = 0;
+            int patternLength = pattern.Length;
+            int textLength = text.Length;
 
-            if (pattern[j] == text[i])
+            for (int i = 0; i < patternLength; i++)
             {
-                if (j == 0)
+                int textIndex = startIndex + i;
+                if (textIndex >= textLength)
                 {
-                    break;
+                    return;
+                }
+
+                if (pattern[i] != text[textIndex])
+                {
+                    distance++;
+                }
+            }
+
+            if(distance<maxval){
+                maxval = distance;
+            }
+
+        }
+        public double solveBM(string pattern,string text){
+            int m = pattern.Length;
+            int n = text.Length;
+
+            int[] last = buildLast(pattern);
+
+            int i = m - 1;
+            if (i > n - 1){
+                throw new ArgumentException($"gak bisa");
+            }
+
+            int j = m - 1;
+
+            do
+            {
+                HammingDistance(pattern, text, i - (m - 1));
+
+                if (pattern[j] == text[i])
+                {
+                    if (j == 0)
+                    {
+                        break;
+                    }
+                    else
+                    { // looking-glass technique
+                        i--;
+                        j--;
+                    }
                 }
                 else
-                { // looking-glass technique
-                    i--;
-                    j--;
+                { // character jump technique
+                    int lo = last[text[i]]; // last occ
+                    i = i + m - Math.Min(j, 1 + lo);
+                    j = m - 1;
                 }
-            }
-            else
-            { // character jump technique
-                int lo = last[text[i]]; // last occ
-                i = i + m - Math.Min(j, 1 + lo);
-                j = m - 1;
-            }
-        } while (i <= n - 1);
+            } while (i <= n - 1);
 
-        double kemiripan = 1 - (maxval / m);
-        return kemiripan;
-        // Console.WriteLine($"Tingkat kemiripan adalah: {kemiripan}");
+            double kemiripan = 1 - (maxval / m);
+            return kemiripan;
+            // Console.WriteLine($"Tingkat kemiripan adalah: {kemiripan}");
 
+        }
     }
+
 }
