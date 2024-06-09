@@ -1,33 +1,39 @@
-﻿class Program
+﻿using System.Reflection;
+using System.Text.RegularExpressions;
+
+class Program
 {
    static void Main(string[] args){
-        DB db = new DB();
-        
-        ImageProc ip = new ImageProc();
-        string pattern = ip.ProcessImageP("./sidiks/10.BMP");
-        Console.WriteLine($"pattern: {pattern}");
-
-        List<(string, string)> sidikJariData = db.GetSidikJariDataList();
-
-        if (sidikJariData.Count > 0)
-        {
-            double maxval = 0;
-            string nameAns = "";
-            foreach ((string nama, string berkasCitra) in sidikJariData)
-            {
-                double tmp;
-                BM solver = new BM();
-                tmp = solver.solveBM(pattern, berkasCitra);
-
-                if (tmp > maxval){
-                    maxval = tmp;
-                    nameAns = nama;
-                }
-            }
-            Console.WriteLine($"yang paling mirip adalah {nameAns} dengan Tingkat kemiripan  {maxval * 100}%");
+        // Runner r = new Runner();
+        // string pathabs = "D:\\Roihan\\Program\\tubes\\Tubesstima3\\Tubes3_CPagar\\backend\\sidiks\\1.BMP";
+        List<(string, List<string>)> s = Runner.solve("BM", "./sidiks/1.BMP");
+        if(s.Count == 0){
+            Console.WriteLine("Sidik Jari Tidak Ditemukan");
         }
-       
-    }
+        else{
+            string imgPathHasil = s[0].Item1;
+            List<string> biodataHasil = s[0].Item2;
+            if (biodataHasil.Count != 0){
+                Console.WriteLine($"imgPath hasil: {imgPathHasil}");
+                Console.WriteLine("Biodata ditemukan:");
+                Console.WriteLine($"NIK: {biodataHasil[0]}");
+                Console.WriteLine($"Nama: {biodataHasil[1]}");
+                Console.WriteLine($"Tempat Lahir: {biodataHasil[2]}");
+                Console.WriteLine($"Tanggal Lahir: {biodataHasil[3]}");
+                Console.WriteLine($"Jenis Kelamin: {biodataHasil[4]}");
+                Console.WriteLine($"Golongan Darah: {biodataHasil[5]}");
+                Console.WriteLine($"Alamat: {biodataHasil[6]}");
+                Console.WriteLine($"Agama: {biodataHasil[7]}");
+                Console.WriteLine($"Status Perkawinan: {biodataHasil[8]}");
+                Console.WriteLine($"Pekerjaan: {biodataHasil[9]}");
+                Console.WriteLine($"Kewarganegaraan: {biodataHasil[10]}");
+            }
+            else{
+                Console.WriteLine("Biodata tidak ditemukan");
+            }
+        }
+        
+}
 }
 
 // db.readDB();

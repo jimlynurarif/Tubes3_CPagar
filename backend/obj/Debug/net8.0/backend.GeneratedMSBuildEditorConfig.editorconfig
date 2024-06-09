@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = backend
-build_property.ProjectDir = D:\Roihan\Program\tubes\Tubesstima3\Tubes3_CPagar\backend\
+build_property.ProjectDir = D:\Roihan\Program\tubes\Tubesstima3\tubesbe\Tubes3_CPagar\backend\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
