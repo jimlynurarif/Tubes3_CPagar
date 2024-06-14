@@ -127,13 +127,8 @@ namespace MyWPF
                         $"Kewarganegaraan: {arrayBiodataHasil[10]}\n";
 
                         TimeExec.Text = "Waktu Eksekusi: " + timeElapsed + " ms";
-
                 }
-
-
             }
-
-        
         }
 
         private void DisplayResultImage(string imagePath)
@@ -215,12 +210,10 @@ namespace MyWPF
                         $"Agama: {arrayBiodataHasil[7]}\n" +
                         $"Status Perkawinan: {arrayBiodataHasil[8]}\n" +
                         $"Pekerjaan: {arrayBiodataHasil[9]}\n" +
-                        $"Kewarganegaraan: {arrayBiodataHasil[10]}" +
-                        $"Waktu Eksekusi: {timeElapsed} ms";
+                        $"Kewarganegaraan: {arrayBiodataHasil[10]}";
 
+                        TimeExec.Text = "Waktu Eksekusi: " + timeElapsed + " ms";
                 }
-
-
             }
         }
     }
