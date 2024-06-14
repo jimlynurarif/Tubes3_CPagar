@@ -1,0 +1,309 @@
+C:\Users\Auralea A S\Documents\TEST4\MyWPF\obj\Debug\net8.0-windows\MenuButtonTheme.baml
+C:\Users\Auralea A S\Documents\TEST4\MyWPF\obj\Debug\net8.0-windows\HomeView.g.cs
+C:\Users\Auralea A S\Documents\TEST4\MyWPF\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Auralea A S\Documents\TEST4\MyWPF\obj\Debug\net8.0-windows\SearchView.g.cs
+C:\Users\Auralea A S\Documents\TEST4\MyWPF\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Auralea A S\Documents\TEST4\MyWPF\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Auralea A S\Documents\TEST4\MyWPF\obj\Debug\net8.0-windows\MyWPF_MarkupCompile.cache
+C:\Users\Auralea A S\Documents\TEST4\MyWPF\obj\Debug\net8.0-windows\MyWPF_MarkupCompile.lref
+C:\Users\Auralea A S\Documents\TEST4\MyWPF\obj\Debug\net8.0-windows\MyWPF.csproj.AssemblyReference.cache
+C:\Users\Auralea A S\Documents\TEST4\MyWPF\obj\Debug\net8.0-windows\HomeView.baml
+C:\Users\Auralea A S\Documents\TEST4\MyWPF\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Auralea A S\Documents\TEST4\MyWPF\obj\Debug\net8.0-windows\SearchView.baml
+C:\Users\Auralea A S\Documents\TEST4\MyWPF\obj\Debug\net8.0-windows\MyWPF.dll
+C:\Users\Auralea A S\Documents\TEST4\MyWPF\obj\Debug\net8.0-windows\refint\MyWPF.dll
+C:\Users\Auralea A S\Documents\TEST4\MyWPF\obj\Debug\net8.0-windows\MyWPF.pdb
+C:\Users\Auralea A S\Documents\TEST4\MyWPF\bin\Debug\net8.0-windows\MyWPF.exe
+C:\Users\Auralea A S\Documents\TEST4\MyWPF\bin\Debug\net8.0-windows\MyWPF.deps.json
+C:\Users\Auralea A S\Documents\TEST4\MyWPF\bin\Debug\net8.0-windows\MyWPF.runtimeconfig.json
+C:\Users\Auralea A S\Documents\TEST4\MyWPF\bin\Debug\net8.0-windows\MyWPF.dll
+C:\Users\Auralea A S\Documents\TEST4\MyWPF\bin\Debug\net8.0-windows\MyWPF.pdb
+C:\Users\Auralea A S\Documents\TEST4\MyWPF\bin\Debug\net8.0-windows\EntityFramework.SqlServer.dll
+C:\Users\Auralea A S\Documents\TEST4\MyWPF\bin\Debug\net8.0-windows\EntityFramework.dll
+C:\Users\Auralea A S\Documents\TEST4\MyWPF\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+C:\Users\Auralea A S\Documents\TEST4\MyWPF\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Auralea A S\Documents\TEST4\MyWPF\bin\Debug\net8.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\Auralea A S\Documents\TEST4\MyWPF\bin\Debug\net8.0-windows\System.Drawing.Common.dll
+C:\Users\Auralea A S\Documents\TEST4\MyWPF\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Auralea A S\Documents\TEST4\MyWPF\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Auralea A S\Documents\TEST4\MyWPF\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Auralea A S\Documents\TEST4\MyWPF\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\Auralea A S\Documents\TEST4\MyWPF\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\Auralea A S\Documents\TEST4\MyWPF\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\Auralea A S\Documents\TEST4\MyWPF\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\Auralea A S\Documents\TEST4\MyWPF\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Auralea A S\Documents\TEST4\MyWPF\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Auralea A S\Documents\TEST4\MyWPF\obj\Debug\net8.0-windows\App.baml
+C:\Users\Auralea A S\Documents\TEST4\MyWPF\obj\Debug\net8.0-windows\MyWPF.g.resources
+C:\Users\Auralea A S\Documents\TEST4\MyWPF\obj\Debug\net8.0-windows\MyWPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Auralea A S\Documents\TEST4\MyWPF\obj\Debug\net8.0-windows\MyWPF.AssemblyInfoInputs.cache
+C:\Users\Auralea A S\Documents\TEST4\MyWPF\obj\Debug\net8.0-windows\MyWPF.AssemblyInfo.cs
+C:\Users\Auralea A S\Documents\TEST4\MyWPF\obj\Debug\net8.0-windows\MyWPF.csproj.CoreCompileInputs.cache
+C:\Users\Auralea A S\Documents\TEST4\MyWPF\obj\Debug\net8.0-windows\MyWPF.csproj.Up2Date
+C:\Users\Auralea A S\Documents\TEST4\MyWPF\obj\Debug\net8.0-windows\MyWPF.genruntimeconfig.cache
+C:\Users\Auralea A S\Documents\TEST4\MyWPF\obj\Debug\net8.0-windows\ref\MyWPF.dll
+C:\Users\Jimly\Downloads\TEST4\TEST4\MyWPF\bin\Debug\net8.0-windows\MyWPF.exe
+C:\Users\Jimly\Downloads\TEST4\TEST4\MyWPF\bin\Debug\net8.0-windows\MyWPF.deps.json
+C:\Users\Jimly\Downloads\TEST4\TEST4\MyWPF\bin\Debug\net8.0-windows\MyWPF.runtimeconfig.json
+C:\Users\Jimly\Downloads\TEST4\TEST4\MyWPF\bin\Debug\net8.0-windows\MyWPF.dll
+C:\Users\Jimly\Downloads\TEST4\TEST4\MyWPF\bin\Debug\net8.0-windows\MyWPF.pdb
+C:\Users\Jimly\Downloads\TEST4\TEST4\MyWPF\bin\Debug\net8.0-windows\EntityFramework.SqlServer.dll
+C:\Users\Jimly\Downloads\TEST4\TEST4\MyWPF\bin\Debug\net8.0-windows\EntityFramework.dll
+C:\Users\Jimly\Downloads\TEST4\TEST4\MyWPF\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+C:\Users\Jimly\Downloads\TEST4\TEST4\MyWPF\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Jimly\Downloads\TEST4\TEST4\MyWPF\bin\Debug\net8.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\Jimly\Downloads\TEST4\TEST4\MyWPF\bin\Debug\net8.0-windows\System.Drawing.Common.dll
+C:\Users\Jimly\Downloads\TEST4\TEST4\MyWPF\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Jimly\Downloads\TEST4\TEST4\MyWPF\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Jimly\Downloads\TEST4\TEST4\MyWPF\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Jimly\Downloads\TEST4\TEST4\MyWPF\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\Jimly\Downloads\TEST4\TEST4\MyWPF\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\Jimly\Downloads\TEST4\TEST4\MyWPF\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\Jimly\Downloads\TEST4\TEST4\MyWPF\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\Jimly\Downloads\TEST4\TEST4\MyWPF\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Jimly\Downloads\TEST4\TEST4\MyWPF\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Jimly\Downloads\TEST4\TEST4\MyWPF\obj\Debug\net8.0-windows\MyWPF.csproj.AssemblyReference.cache
+C:\Users\Jimly\Downloads\TEST4\TEST4\MyWPF\obj\Debug\net8.0-windows\MenuButtonTheme.baml
+C:\Users\Jimly\Downloads\TEST4\TEST4\MyWPF\obj\Debug\net8.0-windows\HomeView.g.cs
+C:\Users\Jimly\Downloads\TEST4\TEST4\MyWPF\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Jimly\Downloads\TEST4\TEST4\MyWPF\obj\Debug\net8.0-windows\SearchView.g.cs
+C:\Users\Jimly\Downloads\TEST4\TEST4\MyWPF\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Jimly\Downloads\TEST4\TEST4\MyWPF\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Jimly\Downloads\TEST4\TEST4\MyWPF\obj\Debug\net8.0-windows\MyWPF_MarkupCompile.cache
+C:\Users\Jimly\Downloads\TEST4\TEST4\MyWPF\obj\Debug\net8.0-windows\MyWPF_MarkupCompile.lref
+C:\Users\Jimly\Downloads\TEST4\TEST4\MyWPF\obj\Debug\net8.0-windows\App.baml
+C:\Users\Jimly\Downloads\TEST4\TEST4\MyWPF\obj\Debug\net8.0-windows\HomeView.baml
+C:\Users\Jimly\Downloads\TEST4\TEST4\MyWPF\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Jimly\Downloads\TEST4\TEST4\MyWPF\obj\Debug\net8.0-windows\SearchView.baml
+C:\Users\Jimly\Downloads\TEST4\TEST4\MyWPF\obj\Debug\net8.0-windows\MyWPF.g.resources
+C:\Users\Jimly\Downloads\TEST4\TEST4\MyWPF\obj\Debug\net8.0-windows\MyWPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jimly\Downloads\TEST4\TEST4\MyWPF\obj\Debug\net8.0-windows\MyWPF.AssemblyInfoInputs.cache
+C:\Users\Jimly\Downloads\TEST4\TEST4\MyWPF\obj\Debug\net8.0-windows\MyWPF.AssemblyInfo.cs
+C:\Users\Jimly\Downloads\TEST4\TEST4\MyWPF\obj\Debug\net8.0-windows\MyWPF.csproj.CoreCompileInputs.cache
+C:\Users\Jimly\Downloads\TEST4\TEST4\MyWPF\obj\Debug\net8.0-windows\MyWPF.csproj.Up2Date
+C:\Users\Jimly\Downloads\TEST4\TEST4\MyWPF\obj\Debug\net8.0-windows\MyWPF.dll
+C:\Users\Jimly\Downloads\TEST4\TEST4\MyWPF\obj\Debug\net8.0-windows\refint\MyWPF.dll
+C:\Users\Jimly\Downloads\TEST4\TEST4\MyWPF\obj\Debug\net8.0-windows\MyWPF.pdb
+C:\Users\Jimly\Downloads\TEST4\TEST4\MyWPF\obj\Debug\net8.0-windows\MyWPF.genruntimeconfig.cache
+C:\Users\Jimly\Downloads\TEST4\TEST4\MyWPF\obj\Debug\net8.0-windows\ref\MyWPF.dll
+D:\Roihan\Program\tubes\tubeslast\TEST4-Seed\TEST4\MyWPF\bin\Debug\net8.0-windows\MyWPF.exe
+D:\Roihan\Program\tubes\tubeslast\TEST4-Seed\TEST4\MyWPF\bin\Debug\net8.0-windows\MyWPF.deps.json
+D:\Roihan\Program\tubes\tubeslast\TEST4-Seed\TEST4\MyWPF\bin\Debug\net8.0-windows\MyWPF.runtimeconfig.json
+D:\Roihan\Program\tubes\tubeslast\TEST4-Seed\TEST4\MyWPF\bin\Debug\net8.0-windows\MyWPF.dll
+D:\Roihan\Program\tubes\tubeslast\TEST4-Seed\TEST4\MyWPF\bin\Debug\net8.0-windows\MyWPF.pdb
+D:\Roihan\Program\tubes\tubeslast\TEST4-Seed\TEST4\MyWPF\bin\Debug\net8.0-windows\EntityFramework.SqlServer.dll
+D:\Roihan\Program\tubes\tubeslast\TEST4-Seed\TEST4\MyWPF\bin\Debug\net8.0-windows\EntityFramework.dll
+D:\Roihan\Program\tubes\tubeslast\TEST4-Seed\TEST4\MyWPF\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+D:\Roihan\Program\tubes\tubeslast\TEST4-Seed\TEST4\MyWPF\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\Roihan\Program\tubes\tubeslast\TEST4-Seed\TEST4\MyWPF\bin\Debug\net8.0-windows\System.Data.SQLite.EF6.dll
+D:\Roihan\Program\tubes\tubeslast\TEST4-Seed\TEST4\MyWPF\bin\Debug\net8.0-windows\System.Drawing.Common.dll
+D:\Roihan\Program\tubes\tubeslast\TEST4-Seed\TEST4\MyWPF\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Roihan\Program\tubes\tubeslast\TEST4-Seed\TEST4\MyWPF\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\Roihan\Program\tubes\tubeslast\TEST4-Seed\TEST4\MyWPF\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\Roihan\Program\tubes\tubeslast\TEST4-Seed\TEST4\MyWPF\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+D:\Roihan\Program\tubes\tubeslast\TEST4-Seed\TEST4\MyWPF\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+D:\Roihan\Program\tubes\tubeslast\TEST4-Seed\TEST4\MyWPF\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+D:\Roihan\Program\tubes\tubeslast\TEST4-Seed\TEST4\MyWPF\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+D:\Roihan\Program\tubes\tubeslast\TEST4-Seed\TEST4\MyWPF\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Roihan\Program\tubes\tubeslast\TEST4-Seed\TEST4\MyWPF\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Roihan\Program\tubes\tubeslast\TEST4-Seed\TEST4\MyWPF\obj\Debug\net8.0-windows\MyWPF.csproj.AssemblyReference.cache
+D:\Roihan\Program\tubes\tubeslast\TEST4-Seed\TEST4\MyWPF\obj\Debug\net8.0-windows\MenuButtonTheme.baml
+D:\Roihan\Program\tubes\tubeslast\TEST4-Seed\TEST4\MyWPF\obj\Debug\net8.0-windows\HomeView.g.cs
+D:\Roihan\Program\tubes\tubeslast\TEST4-Seed\TEST4\MyWPF\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\Roihan\Program\tubes\tubeslast\TEST4-Seed\TEST4\MyWPF\obj\Debug\net8.0-windows\SearchView.g.cs
+D:\Roihan\Program\tubes\tubeslast\TEST4-Seed\TEST4\MyWPF\obj\Debug\net8.0-windows\App.g.cs
+D:\Roihan\Program\tubes\tubeslast\TEST4-Seed\TEST4\MyWPF\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\Roihan\Program\tubes\tubeslast\TEST4-Seed\TEST4\MyWPF\obj\Debug\net8.0-windows\MyWPF_MarkupCompile.cache
+D:\Roihan\Program\tubes\tubeslast\TEST4-Seed\TEST4\MyWPF\obj\Debug\net8.0-windows\MyWPF_MarkupCompile.lref
+D:\Roihan\Program\tubes\tubeslast\TEST4-Seed\TEST4\MyWPF\obj\Debug\net8.0-windows\App.baml
+D:\Roihan\Program\tubes\tubeslast\TEST4-Seed\TEST4\MyWPF\obj\Debug\net8.0-windows\HomeView.baml
+D:\Roihan\Program\tubes\tubeslast\TEST4-Seed\TEST4\MyWPF\obj\Debug\net8.0-windows\MainWindow.baml
+D:\Roihan\Program\tubes\tubeslast\TEST4-Seed\TEST4\MyWPF\obj\Debug\net8.0-windows\SearchView.baml
+D:\Roihan\Program\tubes\tubeslast\TEST4-Seed\TEST4\MyWPF\obj\Debug\net8.0-windows\MyWPF.g.resources
+D:\Roihan\Program\tubes\tubeslast\TEST4-Seed\TEST4\MyWPF\obj\Debug\net8.0-windows\MyWPF.GeneratedMSBuildEditorConfig.editorconfig
+D:\Roihan\Program\tubes\tubeslast\TEST4-Seed\TEST4\MyWPF\obj\Debug\net8.0-windows\MyWPF.AssemblyInfoInputs.cache
+D:\Roihan\Program\tubes\tubeslast\TEST4-Seed\TEST4\MyWPF\obj\Debug\net8.0-windows\MyWPF.AssemblyInfo.cs
+D:\Roihan\Program\tubes\tubeslast\TEST4-Seed\TEST4\MyWPF\obj\Debug\net8.0-windows\MyWPF.csproj.CoreCompileInputs.cache
+D:\Roihan\Program\tubes\tubeslast\TEST4-Seed\TEST4\MyWPF\obj\Debug\net8.0-windows\MyWPF.csproj.Up2Date
+D:\Roihan\Program\tubes\tubeslast\TEST4-Seed\TEST4\MyWPF\obj\Debug\net8.0-windows\MyWPF.dll
+D:\Roihan\Program\tubes\tubeslast\TEST4-Seed\TEST4\MyWPF\obj\Debug\net8.0-windows\refint\MyWPF.dll
+D:\Roihan\Program\tubes\tubeslast\TEST4-Seed\TEST4\MyWPF\obj\Debug\net8.0-windows\MyWPF.pdb
+D:\Roihan\Program\tubes\tubeslast\TEST4-Seed\TEST4\MyWPF\obj\Debug\net8.0-windows\MyWPF.genruntimeconfig.cache
+D:\Roihan\Program\tubes\tubeslast\TEST4-Seed\TEST4\MyWPF\obj\Debug\net8.0-windows\ref\MyWPF.dll
+C:\Users\Jimly\Downloads\TEST4-Seed\TEST4-Seed\TEST4\MyWPF\bin\Debug\net8.0-windows\MyWPF.exe
+C:\Users\Jimly\Downloads\TEST4-Seed\TEST4-Seed\TEST4\MyWPF\bin\Debug\net8.0-windows\MyWPF.deps.json
+C:\Users\Jimly\Downloads\TEST4-Seed\TEST4-Seed\TEST4\MyWPF\bin\Debug\net8.0-windows\MyWPF.runtimeconfig.json
+C:\Users\Jimly\Downloads\TEST4-Seed\TEST4-Seed\TEST4\MyWPF\bin\Debug\net8.0-windows\MyWPF.dll
+C:\Users\Jimly\Downloads\TEST4-Seed\TEST4-Seed\TEST4\MyWPF\bin\Debug\net8.0-windows\MyWPF.pdb
+C:\Users\Jimly\Downloads\TEST4-Seed\TEST4-Seed\TEST4\MyWPF\bin\Debug\net8.0-windows\EntityFramework.SqlServer.dll
+C:\Users\Jimly\Downloads\TEST4-Seed\TEST4-Seed\TEST4\MyWPF\bin\Debug\net8.0-windows\EntityFramework.dll
+C:\Users\Jimly\Downloads\TEST4-Seed\TEST4-Seed\TEST4\MyWPF\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+C:\Users\Jimly\Downloads\TEST4-Seed\TEST4-Seed\TEST4\MyWPF\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Jimly\Downloads\TEST4-Seed\TEST4-Seed\TEST4\MyWPF\bin\Debug\net8.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\Jimly\Downloads\TEST4-Seed\TEST4-Seed\TEST4\MyWPF\bin\Debug\net8.0-windows\System.Drawing.Common.dll
+C:\Users\Jimly\Downloads\TEST4-Seed\TEST4-Seed\TEST4\MyWPF\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Jimly\Downloads\TEST4-Seed\TEST4-Seed\TEST4\MyWPF\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Jimly\Downloads\TEST4-Seed\TEST4-Seed\TEST4\MyWPF\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Jimly\Downloads\TEST4-Seed\TEST4-Seed\TEST4\MyWPF\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\Jimly\Downloads\TEST4-Seed\TEST4-Seed\TEST4\MyWPF\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\Jimly\Downloads\TEST4-Seed\TEST4-Seed\TEST4\MyWPF\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\Jimly\Downloads\TEST4-Seed\TEST4-Seed\TEST4\MyWPF\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\Jimly\Downloads\TEST4-Seed\TEST4-Seed\TEST4\MyWPF\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Jimly\Downloads\TEST4-Seed\TEST4-Seed\TEST4\MyWPF\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Jimly\Downloads\TEST4-Seed\TEST4-Seed\TEST4\MyWPF\obj\Debug\net8.0-windows\MyWPF.csproj.AssemblyReference.cache
+C:\Users\Jimly\Downloads\TEST4-Seed\TEST4-Seed\TEST4\MyWPF\obj\Debug\net8.0-windows\MenuButtonTheme.baml
+C:\Users\Jimly\Downloads\TEST4-Seed\TEST4-Seed\TEST4\MyWPF\obj\Debug\net8.0-windows\HomeView.g.cs
+C:\Users\Jimly\Downloads\TEST4-Seed\TEST4-Seed\TEST4\MyWPF\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Jimly\Downloads\TEST4-Seed\TEST4-Seed\TEST4\MyWPF\obj\Debug\net8.0-windows\SearchView.g.cs
+C:\Users\Jimly\Downloads\TEST4-Seed\TEST4-Seed\TEST4\MyWPF\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Jimly\Downloads\TEST4-Seed\TEST4-Seed\TEST4\MyWPF\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Jimly\Downloads\TEST4-Seed\TEST4-Seed\TEST4\MyWPF\obj\Debug\net8.0-windows\MyWPF_MarkupCompile.cache
+C:\Users\Jimly\Downloads\TEST4-Seed\TEST4-Seed\TEST4\MyWPF\obj\Debug\net8.0-windows\MyWPF_MarkupCompile.lref
+C:\Users\Jimly\Downloads\TEST4-Seed\TEST4-Seed\TEST4\MyWPF\obj\Debug\net8.0-windows\App.baml
+C:\Users\Jimly\Downloads\TEST4-Seed\TEST4-Seed\TEST4\MyWPF\obj\Debug\net8.0-windows\HomeView.baml
+C:\Users\Jimly\Downloads\TEST4-Seed\TEST4-Seed\TEST4\MyWPF\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Jimly\Downloads\TEST4-Seed\TEST4-Seed\TEST4\MyWPF\obj\Debug\net8.0-windows\SearchView.baml
+C:\Users\Jimly\Downloads\TEST4-Seed\TEST4-Seed\TEST4\MyWPF\obj\Debug\net8.0-windows\MyWPF.g.resources
+C:\Users\Jimly\Downloads\TEST4-Seed\TEST4-Seed\TEST4\MyWPF\obj\Debug\net8.0-windows\MyWPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jimly\Downloads\TEST4-Seed\TEST4-Seed\TEST4\MyWPF\obj\Debug\net8.0-windows\MyWPF.AssemblyInfoInputs.cache
+C:\Users\Jimly\Downloads\TEST4-Seed\TEST4-Seed\TEST4\MyWPF\obj\Debug\net8.0-windows\MyWPF.AssemblyInfo.cs
+C:\Users\Jimly\Downloads\TEST4-Seed\TEST4-Seed\TEST4\MyWPF\obj\Debug\net8.0-windows\MyWPF.csproj.CoreCompileInputs.cache
+C:\Users\Jimly\Downloads\TEST4-Seed\TEST4-Seed\TEST4\MyWPF\obj\Debug\net8.0-windows\MyWPF.csproj.Up2Date
+C:\Users\Jimly\Downloads\TEST4-Seed\TEST4-Seed\TEST4\MyWPF\obj\Debug\net8.0-windows\MyWPF.dll
+C:\Users\Jimly\Downloads\TEST4-Seed\TEST4-Seed\TEST4\MyWPF\obj\Debug\net8.0-windows\refint\MyWPF.dll
+C:\Users\Jimly\Downloads\TEST4-Seed\TEST4-Seed\TEST4\MyWPF\obj\Debug\net8.0-windows\MyWPF.pdb
+C:\Users\Jimly\Downloads\TEST4-Seed\TEST4-Seed\TEST4\MyWPF\obj\Debug\net8.0-windows\MyWPF.genruntimeconfig.cache
+C:\Users\Jimly\Downloads\TEST4-Seed\TEST4-Seed\TEST4\MyWPF\obj\Debug\net8.0-windows\ref\MyWPF.dll
+C:\Users\Auralea A S\Downloads\TEST4-MrJ\TEST4\MyWPF\bin\Debug\net8.0-windows\MyWPF.exe
+C:\Users\Auralea A S\Downloads\TEST4-MrJ\TEST4\MyWPF\bin\Debug\net8.0-windows\MyWPF.deps.json
+C:\Users\Auralea A S\Downloads\TEST4-MrJ\TEST4\MyWPF\bin\Debug\net8.0-windows\MyWPF.runtimeconfig.json
+C:\Users\Auralea A S\Downloads\TEST4-MrJ\TEST4\MyWPF\bin\Debug\net8.0-windows\MyWPF.dll
+C:\Users\Auralea A S\Downloads\TEST4-MrJ\TEST4\MyWPF\bin\Debug\net8.0-windows\MyWPF.pdb
+C:\Users\Auralea A S\Downloads\TEST4-MrJ\TEST4\MyWPF\bin\Debug\net8.0-windows\EntityFramework.SqlServer.dll
+C:\Users\Auralea A S\Downloads\TEST4-MrJ\TEST4\MyWPF\bin\Debug\net8.0-windows\EntityFramework.dll
+C:\Users\Auralea A S\Downloads\TEST4-MrJ\TEST4\MyWPF\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+C:\Users\Auralea A S\Downloads\TEST4-MrJ\TEST4\MyWPF\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Auralea A S\Downloads\TEST4-MrJ\TEST4\MyWPF\bin\Debug\net8.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\Auralea A S\Downloads\TEST4-MrJ\TEST4\MyWPF\bin\Debug\net8.0-windows\System.Drawing.Common.dll
+C:\Users\Auralea A S\Downloads\TEST4-MrJ\TEST4\MyWPF\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Auralea A S\Downloads\TEST4-MrJ\TEST4\MyWPF\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Auralea A S\Downloads\TEST4-MrJ\TEST4\MyWPF\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Auralea A S\Downloads\TEST4-MrJ\TEST4\MyWPF\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\Auralea A S\Downloads\TEST4-MrJ\TEST4\MyWPF\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\Auralea A S\Downloads\TEST4-MrJ\TEST4\MyWPF\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\Auralea A S\Downloads\TEST4-MrJ\TEST4\MyWPF\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\Auralea A S\Downloads\TEST4-MrJ\TEST4\MyWPF\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Auralea A S\Downloads\TEST4-MrJ\TEST4\MyWPF\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Auralea A S\Downloads\TEST4-MrJ\TEST4\MyWPF\obj\Debug\net8.0-windows\MyWPF.csproj.AssemblyReference.cache
+C:\Users\Auralea A S\Downloads\TEST4-MrJ\TEST4\MyWPF\obj\Debug\net8.0-windows\MenuButtonTheme.baml
+C:\Users\Auralea A S\Downloads\TEST4-MrJ\TEST4\MyWPF\obj\Debug\net8.0-windows\HomeView.g.cs
+C:\Users\Auralea A S\Downloads\TEST4-MrJ\TEST4\MyWPF\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Auralea A S\Downloads\TEST4-MrJ\TEST4\MyWPF\obj\Debug\net8.0-windows\SearchView.g.cs
+C:\Users\Auralea A S\Downloads\TEST4-MrJ\TEST4\MyWPF\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Auralea A S\Downloads\TEST4-MrJ\TEST4\MyWPF\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Auralea A S\Downloads\TEST4-MrJ\TEST4\MyWPF\obj\Debug\net8.0-windows\MyWPF_MarkupCompile.cache
+C:\Users\Auralea A S\Downloads\TEST4-MrJ\TEST4\MyWPF\obj\Debug\net8.0-windows\MyWPF_MarkupCompile.lref
+C:\Users\Auralea A S\Downloads\TEST4-MrJ\TEST4\MyWPF\obj\Debug\net8.0-windows\App.baml
+C:\Users\Auralea A S\Downloads\TEST4-MrJ\TEST4\MyWPF\obj\Debug\net8.0-windows\HomeView.baml
+C:\Users\Auralea A S\Downloads\TEST4-MrJ\TEST4\MyWPF\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Auralea A S\Downloads\TEST4-MrJ\TEST4\MyWPF\obj\Debug\net8.0-windows\SearchView.baml
+C:\Users\Auralea A S\Downloads\TEST4-MrJ\TEST4\MyWPF\obj\Debug\net8.0-windows\MyWPF.g.resources
+C:\Users\Auralea A S\Downloads\TEST4-MrJ\TEST4\MyWPF\obj\Debug\net8.0-windows\MyWPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Auralea A S\Downloads\TEST4-MrJ\TEST4\MyWPF\obj\Debug\net8.0-windows\MyWPF.AssemblyInfoInputs.cache
+C:\Users\Auralea A S\Downloads\TEST4-MrJ\TEST4\MyWPF\obj\Debug\net8.0-windows\MyWPF.AssemblyInfo.cs
+C:\Users\Auralea A S\Downloads\TEST4-MrJ\TEST4\MyWPF\obj\Debug\net8.0-windows\MyWPF.csproj.CoreCompileInputs.cache
+C:\Users\Auralea A S\Downloads\TEST4-MrJ\TEST4\MyWPF\obj\Debug\net8.0-windows\MyWPF.csproj.Up2Date
+C:\Users\Auralea A S\Downloads\TEST4-MrJ\TEST4\MyWPF\obj\Debug\net8.0-windows\MyWPF.dll
+C:\Users\Auralea A S\Downloads\TEST4-MrJ\TEST4\MyWPF\obj\Debug\net8.0-windows\refint\MyWPF.dll
+C:\Users\Auralea A S\Downloads\TEST4-MrJ\TEST4\MyWPF\obj\Debug\net8.0-windows\MyWPF.pdb
+C:\Users\Auralea A S\Downloads\TEST4-MrJ\TEST4\MyWPF\obj\Debug\net8.0-windows\MyWPF.genruntimeconfig.cache
+C:\Users\Auralea A S\Downloads\TEST4-MrJ\TEST4\MyWPF\obj\Debug\net8.0-windows\ref\MyWPF.dll
+C:\Users\Jimly\Downloads\TEST4-MrJ\TEST4-MrJ\TEST4\MyWPF\bin\Debug\net8.0-windows\MyWPF.exe
+C:\Users\Jimly\Downloads\TEST4-MrJ\TEST4-MrJ\TEST4\MyWPF\bin\Debug\net8.0-windows\MyWPF.deps.json
+C:\Users\Jimly\Downloads\TEST4-MrJ\TEST4-MrJ\TEST4\MyWPF\bin\Debug\net8.0-windows\MyWPF.runtimeconfig.json
+C:\Users\Jimly\Downloads\TEST4-MrJ\TEST4-MrJ\TEST4\MyWPF\bin\Debug\net8.0-windows\MyWPF.dll
+C:\Users\Jimly\Downloads\TEST4-MrJ\TEST4-MrJ\TEST4\MyWPF\bin\Debug\net8.0-windows\MyWPF.pdb
+C:\Users\Jimly\Downloads\TEST4-MrJ\TEST4-MrJ\TEST4\MyWPF\bin\Debug\net8.0-windows\EntityFramework.SqlServer.dll
+C:\Users\Jimly\Downloads\TEST4-MrJ\TEST4-MrJ\TEST4\MyWPF\bin\Debug\net8.0-windows\EntityFramework.dll
+C:\Users\Jimly\Downloads\TEST4-MrJ\TEST4-MrJ\TEST4\MyWPF\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+C:\Users\Jimly\Downloads\TEST4-MrJ\TEST4-MrJ\TEST4\MyWPF\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Jimly\Downloads\TEST4-MrJ\TEST4-MrJ\TEST4\MyWPF\bin\Debug\net8.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\Jimly\Downloads\TEST4-MrJ\TEST4-MrJ\TEST4\MyWPF\bin\Debug\net8.0-windows\System.Drawing.Common.dll
+C:\Users\Jimly\Downloads\TEST4-MrJ\TEST4-MrJ\TEST4\MyWPF\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Jimly\Downloads\TEST4-MrJ\TEST4-MrJ\TEST4\MyWPF\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Jimly\Downloads\TEST4-MrJ\TEST4-MrJ\TEST4\MyWPF\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Jimly\Downloads\TEST4-MrJ\TEST4-MrJ\TEST4\MyWPF\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\Jimly\Downloads\TEST4-MrJ\TEST4-MrJ\TEST4\MyWPF\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\Jimly\Downloads\TEST4-MrJ\TEST4-MrJ\TEST4\MyWPF\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\Jimly\Downloads\TEST4-MrJ\TEST4-MrJ\TEST4\MyWPF\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\Jimly\Downloads\TEST4-MrJ\TEST4-MrJ\TEST4\MyWPF\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Jimly\Downloads\TEST4-MrJ\TEST4-MrJ\TEST4\MyWPF\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Jimly\Downloads\TEST4-MrJ\TEST4-MrJ\TEST4\MyWPF\obj\Debug\net8.0-windows\MyWPF.csproj.AssemblyReference.cache
+C:\Users\Jimly\Downloads\TEST4-MrJ\TEST4-MrJ\TEST4\MyWPF\obj\Debug\net8.0-windows\MenuButtonTheme.baml
+C:\Users\Jimly\Downloads\TEST4-MrJ\TEST4-MrJ\TEST4\MyWPF\obj\Debug\net8.0-windows\HomeView.g.cs
+C:\Users\Jimly\Downloads\TEST4-MrJ\TEST4-MrJ\TEST4\MyWPF\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Jimly\Downloads\TEST4-MrJ\TEST4-MrJ\TEST4\MyWPF\obj\Debug\net8.0-windows\SearchView.g.cs
+C:\Users\Jimly\Downloads\TEST4-MrJ\TEST4-MrJ\TEST4\MyWPF\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Jimly\Downloads\TEST4-MrJ\TEST4-MrJ\TEST4\MyWPF\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Jimly\Downloads\TEST4-MrJ\TEST4-MrJ\TEST4\MyWPF\obj\Debug\net8.0-windows\MyWPF_MarkupCompile.cache
+C:\Users\Jimly\Downloads\TEST4-MrJ\TEST4-MrJ\TEST4\MyWPF\obj\Debug\net8.0-windows\MyWPF_MarkupCompile.lref
+C:\Users\Jimly\Downloads\TEST4-MrJ\TEST4-MrJ\TEST4\MyWPF\obj\Debug\net8.0-windows\App.baml
+C:\Users\Jimly\Downloads\TEST4-MrJ\TEST4-MrJ\TEST4\MyWPF\obj\Debug\net8.0-windows\HomeView.baml
+C:\Users\Jimly\Downloads\TEST4-MrJ\TEST4-MrJ\TEST4\MyWPF\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Jimly\Downloads\TEST4-MrJ\TEST4-MrJ\TEST4\MyWPF\obj\Debug\net8.0-windows\SearchView.baml
+C:\Users\Jimly\Downloads\TEST4-MrJ\TEST4-MrJ\TEST4\MyWPF\obj\Debug\net8.0-windows\MyWPF.g.resources
+C:\Users\Jimly\Downloads\TEST4-MrJ\TEST4-MrJ\TEST4\MyWPF\obj\Debug\net8.0-windows\MyWPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jimly\Downloads\TEST4-MrJ\TEST4-MrJ\TEST4\MyWPF\obj\Debug\net8.0-windows\MyWPF.AssemblyInfoInputs.cache
+C:\Users\Jimly\Downloads\TEST4-MrJ\TEST4-MrJ\TEST4\MyWPF\obj\Debug\net8.0-windows\MyWPF.AssemblyInfo.cs
+C:\Users\Jimly\Downloads\TEST4-MrJ\TEST4-MrJ\TEST4\MyWPF\obj\Debug\net8.0-windows\MyWPF.csproj.CoreCompileInputs.cache
+C:\Users\Jimly\Downloads\TEST4-MrJ\TEST4-MrJ\TEST4\MyWPF\obj\Debug\net8.0-windows\MyWPF.csproj.Up2Date
+C:\Users\Jimly\Downloads\TEST4-MrJ\TEST4-MrJ\TEST4\MyWPF\obj\Debug\net8.0-windows\MyWPF.dll
+C:\Users\Jimly\Downloads\TEST4-MrJ\TEST4-MrJ\TEST4\MyWPF\obj\Debug\net8.0-windows\refint\MyWPF.dll
+C:\Users\Jimly\Downloads\TEST4-MrJ\TEST4-MrJ\TEST4\MyWPF\obj\Debug\net8.0-windows\MyWPF.pdb
+C:\Users\Jimly\Downloads\TEST4-MrJ\TEST4-MrJ\TEST4\MyWPF\obj\Debug\net8.0-windows\MyWPF.genruntimeconfig.cache
+C:\Users\Jimly\Downloads\TEST4-MrJ\TEST4-MrJ\TEST4\MyWPF\obj\Debug\net8.0-windows\ref\MyWPF.dll
+C:\Users\Jimly\Documents\tubes3\Tubes3_CPagar\MyWPF\bin\Debug\net8.0-windows\MyWPF.exe
+C:\Users\Jimly\Documents\tubes3\Tubes3_CPagar\MyWPF\bin\Debug\net8.0-windows\MyWPF.deps.json
+C:\Users\Jimly\Documents\tubes3\Tubes3_CPagar\MyWPF\bin\Debug\net8.0-windows\MyWPF.runtimeconfig.json
+C:\Users\Jimly\Documents\tubes3\Tubes3_CPagar\MyWPF\bin\Debug\net8.0-windows\MyWPF.dll
+C:\Users\Jimly\Documents\tubes3\Tubes3_CPagar\MyWPF\bin\Debug\net8.0-windows\MyWPF.pdb
+C:\Users\Jimly\Documents\tubes3\Tubes3_CPagar\MyWPF\bin\Debug\net8.0-windows\EntityFramework.SqlServer.dll
+C:\Users\Jimly\Documents\tubes3\Tubes3_CPagar\MyWPF\bin\Debug\net8.0-windows\EntityFramework.dll
+C:\Users\Jimly\Documents\tubes3\Tubes3_CPagar\MyWPF\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+C:\Users\Jimly\Documents\tubes3\Tubes3_CPagar\MyWPF\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Jimly\Documents\tubes3\Tubes3_CPagar\MyWPF\bin\Debug\net8.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\Jimly\Documents\tubes3\Tubes3_CPagar\MyWPF\bin\Debug\net8.0-windows\System.Drawing.Common.dll
+C:\Users\Jimly\Documents\tubes3\Tubes3_CPagar\MyWPF\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Jimly\Documents\tubes3\Tubes3_CPagar\MyWPF\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Jimly\Documents\tubes3\Tubes3_CPagar\MyWPF\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Jimly\Documents\tubes3\Tubes3_CPagar\MyWPF\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\Jimly\Documents\tubes3\Tubes3_CPagar\MyWPF\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\Jimly\Documents\tubes3\Tubes3_CPagar\MyWPF\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\Jimly\Documents\tubes3\Tubes3_CPagar\MyWPF\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\Jimly\Documents\tubes3\Tubes3_CPagar\MyWPF\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Jimly\Documents\tubes3\Tubes3_CPagar\MyWPF\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Jimly\Documents\tubes3\Tubes3_CPagar\MyWPF\obj\Debug\net8.0-windows\MyWPF.csproj.AssemblyReference.cache
+C:\Users\Jimly\Documents\tubes3\Tubes3_CPagar\MyWPF\obj\Debug\net8.0-windows\MenuButtonTheme.baml
+C:\Users\Jimly\Documents\tubes3\Tubes3_CPagar\MyWPF\obj\Debug\net8.0-windows\HomeView.g.cs
+C:\Users\Jimly\Documents\tubes3\Tubes3_CPagar\MyWPF\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Jimly\Documents\tubes3\Tubes3_CPagar\MyWPF\obj\Debug\net8.0-windows\SearchView.g.cs
+C:\Users\Jimly\Documents\tubes3\Tubes3_CPagar\MyWPF\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Jimly\Documents\tubes3\Tubes3_CPagar\MyWPF\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Jimly\Documents\tubes3\Tubes3_CPagar\MyWPF\obj\Debug\net8.0-windows\MyWPF_MarkupCompile.cache
+C:\Users\Jimly\Documents\tubes3\Tubes3_CPagar\MyWPF\obj\Debug\net8.0-windows\MyWPF_MarkupCompile.lref
+C:\Users\Jimly\Documents\tubes3\Tubes3_CPagar\MyWPF\obj\Debug\net8.0-windows\App.baml
+C:\Users\Jimly\Documents\tubes3\Tubes3_CPagar\MyWPF\obj\Debug\net8.0-windows\HomeView.baml
+C:\Users\Jimly\Documents\tubes3\Tubes3_CPagar\MyWPF\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Jimly\Documents\tubes3\Tubes3_CPagar\MyWPF\obj\Debug\net8.0-windows\SearchView.baml
+C:\Users\Jimly\Documents\tubes3\Tubes3_CPagar\MyWPF\obj\Debug\net8.0-windows\MyWPF.g.resources
+C:\Users\Jimly\Documents\tubes3\Tubes3_CPagar\MyWPF\obj\Debug\net8.0-windows\MyWPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jimly\Documents\tubes3\Tubes3_CPagar\MyWPF\obj\Debug\net8.0-windows\MyWPF.AssemblyInfoInputs.cache
+C:\Users\Jimly\Documents\tubes3\Tubes3_CPagar\MyWPF\obj\Debug\net8.0-windows\MyWPF.AssemblyInfo.cs
+C:\Users\Jimly\Documents\tubes3\Tubes3_CPagar\MyWPF\obj\Debug\net8.0-windows\MyWPF.csproj.CoreCompileInputs.cache
+C:\Users\Jimly\Documents\tubes3\Tubes3_CPagar\MyWPF\obj\Debug\net8.0-windows\MyWPF.sourcelink.json
+C:\Users\Jimly\Documents\tubes3\Tubes3_CPagar\MyWPF\obj\Debug\net8.0-windows\MyWPF.csproj.Up2Date
+C:\Users\Jimly\Documents\tubes3\Tubes3_CPagar\MyWPF\obj\Debug\net8.0-windows\MyWPF.dll
+C:\Users\Jimly\Documents\tubes3\Tubes3_CPagar\MyWPF\obj\Debug\net8.0-windows\refint\MyWPF.dll
+C:\Users\Jimly\Documents\tubes3\Tubes3_CPagar\MyWPF\obj\Debug\net8.0-windows\MyWPF.pdb
+C:\Users\Jimly\Documents\tubes3\Tubes3_CPagar\MyWPF\obj\Debug\net8.0-windows\MyWPF.genruntimeconfig.cache
+C:\Users\Jimly\Documents\tubes3\Tubes3_CPagar\MyWPF\obj\Debug\net8.0-windows\ref\MyWPF.dll

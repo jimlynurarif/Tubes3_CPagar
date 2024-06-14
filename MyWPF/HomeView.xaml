@@ -1,0 +1,48 @@
+﻿<UserControl x:Class="MyWPF.HomeView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:local="clr-namespace:MyWPF.View"
+             mc:Ignorable="d"
+             d:DesignHeight="600" d:DesignWidth="800">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!-- Welcome TextBlock -->
+        <TextBlock Text="Welcome to CPagar!" HorizontalAlignment="Center" FontSize="35" FontWeight="Bold" Margin="0,218,0,22">
+            <TextBlock.Foreground>
+                <LinearGradientBrush StartPoint="0,0" EndPoint="1,0">
+                    <GradientStop Color="#FC466B" Offset="0.15"/>
+                    <GradientStop Color="#8459BF" Offset="0.4"/>
+                    <GradientStop Color="#3F5EFB" Offset="1"/>
+                </LinearGradientBrush>
+            </TextBlock.Foreground>
+        </TextBlock>
+
+        <!-- Fingerprint Image -->
+        <Image x:Name="FingerprintImage" Source="pack://application:,,,/Images/fingerprint.png" Width="100" Height="100" HorizontalAlignment="Center" VerticalAlignment="Top" Opacity="0" Margin="0,96,0,0"/>
+
+        <!-- Introduction TextBlock -->
+        <TextBlock Grid.Row="1" TextWrapping="Wrap" TextAlignment="Center" FontSize="18" Foreground="White" Margin="107,10,78,114">
+        <Run Text="Introducing our advanced fingerprint detection program, a cutting-edge solution for biometric-based individual identification. Utilizing the powerful Boyer-Moore and Knuth-Morris-Pratt algorithms, this system ensures highly accurate fingerprint detection. Seamlessly integrated with a comprehensive identity database, our program can recognize and verify a person's complete identity with just their fingerprint."/>
+        </TextBlock>
+    </Grid>
+
+    <UserControl.Triggers>
+        <!-- Start the animation when the window is loaded -->
+        <EventTrigger RoutedEvent="Window.Loaded">
+            <BeginStoryboard>
+                <!-- Reference the animation by its key -->
+                <Storyboard Storyboard.TargetName="FingerprintImage" Storyboard.TargetProperty="Opacity">
+                    <DoubleAnimation From="0" To="1" Duration="0:0:2" />
+                </Storyboard>
+            </BeginStoryboard>
+        </EventTrigger>
+    </UserControl.Triggers>
+
+</UserControl>
